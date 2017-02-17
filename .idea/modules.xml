@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GDGtest.iml" filepath="$PROJECT_DIR$/GDGtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/GoogleLogin.iml" filepath="$PROJECT_DIR$/GoogleLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
