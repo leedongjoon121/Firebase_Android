@@ -23,7 +23,7 @@ package com.example.lee.googlelogin;
 
 public class MainActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
     여긴....승주의 흔적이...남아있는...곳입니다....
-dddd
+dddd ㅇㅂㅈㅇㅂㅈ이건
     SignInButton signInButton;
     Button signOutButton;
     TextView statusTextView;
