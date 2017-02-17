@@ -22,7 +22,7 @@ package com.example.lee.googlelogin;
 
 
 public class MainActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
-
+난재호찡
 
     SignInButton signInButton;
     Button signOutButton;
