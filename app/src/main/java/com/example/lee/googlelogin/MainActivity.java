@@ -19,10 +19,9 @@ package com.example.lee.googlelogin;
         import com.google.android.gms.common.api.Status;
         import com.google.firebase.database.DatabaseReference;
         import com.google.firebase.database.FirebaseDatabase;
-
+qwdqwdq
 
 public class MainActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
-난재호찡
 
     SignInButton signInButton;
     Button signOutButton;
