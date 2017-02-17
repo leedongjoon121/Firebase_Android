@@ -1,0 +1,24 @@
+<!doctype>
+<html>
+<head>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+$(document).ready(function(){
+    var client_number = 10;
+    $("#btn2").click(function(){
+     for(var i = 1; i<=client_number; i++){
+    $("#btn").trigger("click");
+     }
+    });
+});       
+        
+</script>
+
+
+
+</head>
+<body>
+    <button id ="btn2">브라우저10개</button>
+   <button id="btn" onClick="window.open('http://192.168.0.10:4000/test1');">새창으로 열기</button>
+</body>
+</html>
